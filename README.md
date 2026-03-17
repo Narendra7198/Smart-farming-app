@@ -161,7 +161,6 @@ This device will allow farmers to get crop and disease information without a sma
 ## 👨‍💻 Developer
 
 **Narendra Singh Panwar**
-GitHub: [@Narendra7198](https://github.com/Narendra7198)
 
 ---
 
