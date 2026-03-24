@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import streamlit as st
 import pandas as pd
 import pickle
@@ -969,7 +968,6 @@ streamlit run app.py
 http://localhost:8501
         </pre>
         </div>""", unsafe_allow_html=True)
-=======
 import streamlit as st
 import pandas as pd
 import pickle
@@ -1940,4 +1938,3 @@ streamlit run app.py
 http://localhost:8501
         </pre>
         </div>""", unsafe_allow_html=True)
->>>>>>> 8421882aca9095321366ca4dcc84ff2446b10d9c
